@@ -1,0 +1,40 @@
+{
+  "_default": {
+    "1": {
+      "name": "First test template",
+      "field_name_1": "email",
+      "field_name_2": "phone",
+      "field_name_3": "text",
+      "field_name_4": "text"
+    },
+    "2": {
+      "name": "Second test template",
+      "user_email": "email",
+      "user_phone": "phone",
+      "user_name": "text",
+      "order_date": "date"
+    },
+    "3": {
+      "name": "Third test template",
+      "customer_email": "email",
+      "customer_phone": "phone",
+      "customer_name": "text",
+      "purchase_date": "date"
+    },
+    "4": {
+      "name": "Fourth test template",
+      "manager_email": "email",
+      "manager_phone": "phone",
+      "manager_name": "text",
+      "description": "text",
+      "last_entrance": "date"
+    },
+    "5": {
+      "name": "Fifth test template",
+      "body_message": "text",
+      "dest_number": "number",
+      "source_number": "number",
+      "date_message": "date"
+    }
+  }
+}
